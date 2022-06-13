@@ -1,0 +1,11 @@
+p {
+  margin: 0;
+}
+
+@media screen and (min-width: 799px) {
+  body {
+    width: 799px;
+    margin: auto;
+  }
+
+}
